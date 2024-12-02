@@ -1,0 +1,29 @@
+Write a shell script that checks if:
+a)
+A directory path /home/ubuntu/access exists and if not create
+b)
+A file /home/ubuntu/acsess/myscript.sh exists and if not create it
+
+
+#!/bin/bash
+
+# Define the directory and file paths
+DIR="/home/ubuntu/access"
+FILE="$DIR/myscript.sh"
+
+# Check if the directory exists
+if [ ! -d "$DIR" ]; then
+  echo "Directory $DIR does not exist. Creating it..."
+  mkdir -p "$DIR"
+else
+  echo "Directory $DIR already exists."
+fi
+
+# Check if the file exists
+if [ ! -f "$FILE" ]; then
+  echo "File $FILE does not exist. Creating it..."
+  touch "$FILE"
+  chmod +x "$FILE"  # Make the file executable (optional)
+else
+  echo "File $FILE already exists."
+fi

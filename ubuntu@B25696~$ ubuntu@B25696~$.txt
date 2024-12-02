@@ -1,0 +1,401 @@
+ubuntu@B25696:~$ ubuntu@B25696:~$
+ubuntu@B25696:~$ history
+    1  man
+    2  man man
+    3  q
+    4  mkdir
+    5  man
+    6  man man
+    7  mkdr Mccema
+    8  cp
+    9  man cp
+   10  pwd
+   11  q
+   12  mkdir Mccema
+   13  ls
+   14  cd Mccema
+   15  pwd
+   16  cd
+   17  cd..
+   18  mkdr Emmanuel
+   19  cd
+   20  mkdir Mccema
+   21  cd Mccema
+   22  df
+   23  ps
+   24  man man
+   25  q
+   26  man ls
+   27  exit
+   28  cd Mccema
+   29  ps
+   30  clear
+   31  lsblk
+   32  man lsblk
+   33  lsblk -A
+   34  lsblk -a
+   35  df -h
+   36  lsblk df
+   37  df
+   38  man df
+   39  clear
+   40  q
+   41  clear
+   42  ls
+   43  man clear
+   44  clear
+   45  man clear
+   46  clear
+   47  touch class.txt
+   48  ls
+   49  man touch
+   50  ls -1
+   51  ls -l
+   52  sudo dpkg-reconfigure tzdata
+   53  ls-l
+   54  ls -l
+   55  ping google.com
+   56  whoami
+   57  ls
+   58  ls -l
+   59  chmod
+   60  chmod u=rwx class.txt
+   61  ls
+   62  ls -l
+   63  ls -lh
+   64  chmod 644 class.txt
+   65  chmod 744 class.txt
+   66  chmod o=rw class.txt
+   67  ls -lh
+   68  chmod 744
+   69  chmod 744 class.txt
+   70  ls -lh
+   71  clear
+   72  exit
+   73  sudo -i
+   74  mkdir Test
+   75  sudo -i
+   76  clear
+   77  ls -lh
+   78  clear
+   79  ls -lh
+   80  rm -rf Third
+   81  ls -lh
+   82  rm -rf *.txt
+   83  ls -lh
+   84  rm -r Test
+   85  ls -lh
+   86  vim Emmanuel.txt
+   87  vim Emmanuel.txt
+   88  history
+   89  history | grep chmod
+   90  history | grep sudo
+   91  clear
+   92  exit
+   93  clear
+   94  ls
+   95  ls -lh
+   96  clear
+   97  sudo i
+   98  sudo -i
+   99  echo $SHELL
+  100  exec bash
+  101  exit
+  102  clear
+  103  exec shell
+  104  exec csh
+  105  exec sh
+  106  clear
+  107  sh
+  108  csh
+  109  shell
+  110  echo $SHELL
+  111  whoami
+  112  vim shellexample.sh
+  113  bash
+  114  w
+  115  echo $SHELL
+  116  ls -lh /bin/bash
+  117  ls -lh /bin/sh
+  118  #!/usr/bin/env bash
+  119  #!/usr/bin/env sh
+  120  which env
+  121  #!/bin/sh
+  122  ls -lh #!/bin/sh
+  123  clear
+  124  vim shellexample.sh
+  125  rm shellexample.sh
+  126  rm -rf shellexample.sh
+  127  ls -lh
+  128  vim shellexample.sh
+  129  vim example.sh
+  130  clear
+  131  history
+  132  clear
+  133  echo "please enter three filenames"
+  134  vim example2.sh
+  135  ls -lh
+  136  sh example2.sh
+  137  vim exercise2.sh
+  138  sh exercise2.sh
+  139  vim exercise2.sh
+  140  sh exercise2.sh
+  141  vim exercise2.sh
+  142  sh exercise2.sh
+  143  HOME
+  144  echo $HOME
+  145  printenv | more
+  146  clear
+  147  vim exercise2.sh
+  148  sh exercise2.sh
+  149  vim exercise2.sh
+  150  sh exercise2.sh
+  151  set x = 7; echo $x
+  152  x
+  153  vim exercise2.sh
+  154  sh exercise2.sh
+  155  vim exercise2.sh
+  156  sh exercise2.sh
+  157  clear
+  158  vim Variables.sh
+  159  sh Variables.sh
+  160  vim Variables.sh
+  161  sh Variables.sh
+  162  vim Variables.sh
+  163  sh Variables.sh
+  164  vim Variables.sh
+  165  sh Variables.sh
+  166  Mukono
+  167  5
+  168  vim Variables.sh
+  169  sh Variables.sh
+  170  Mukono
+  171  Mbale
+  172  sh Variables.sh
+  173  5
+  174  vim Variables.sh
+  175  sh Variables.sh
+  176  married
+  177  vim Variables.sh
+  178  vim Variables.sh
+  179  sh Variables.sh
+  180  mukono 5 male
+  181  sh Variables.sh
+  182  vim Variables.sh
+  183  sh Variables.sh
+  184  exit
+  185  clear
+  186  vim math.sh
+  187  clear
+  188  ls -lh
+  189  vim variables.sh
+  190  sh variables.sh
+  191  ./variables.sh
+  192  vim variables.sh
+  193  ./variables.sh
+  194  vim variables.sh
+  195  ./variables.sh
+  196  vim variables.sh
+  197  chmod 766 variables.sh
+  198  ./variables.sh
+  199  vim variables.sh
+  200  ./variables.sh
+  201  vim variables.sh
+  202  ./variables.sh
+  203  vim variables.sh
+  204  ./variables.sh
+  205  history
+  206  ls -lh
+  207  clear
+  208  vim variables.sh
+  209  ./variables.sh
+  210  clear
+  211  touch Assignmentone.sh
+  212  ls -lh
+  213  clear
+  214  vim Assignmentone.sh
+  215  sh Assignmentone.sh
+  216  vim Assignmentone.sh
+  217  sh Assignmentone.sh
+  218  vim Assignmentone.sh
+  219  sh Assignmentone.sh
+  220  vim Assignmentone.sh
+  221  classgit
+  222  clear
+  223  git --version
+  224  git clone https://github.com/mccema
+  225  clear
+  226  vim Assignmentone.sh
+  227  ./variables.sh
+  228  clear
+  229  git config --global user.name "mccema"
+  230  git config --global mccema
+  231  git config --global user.name
+  232  git config --global user.email "mccema101@gmail.com"
+  233  git config --global user.email
+  234  git init
+  235  touch README.md
+  236  ls -l
+  237  git add README.md
+  238  git status
+  239  git commit -m
+  240  git commit -m "Added README.md file"
+  241  ls -lh
+  242  ls -la
+  243  vim shellexample.sh
+  244  git add README.md
+  245  git commit "update README.md file"
+  246  git commit "update README.md"
+  247  git commit -m "update README.md file"
+  248  git status -s
+  249  git status
+  250  clear
+  251  sudo mkdir /root/.my-scripts
+  252  ls -l
+  253  sudo -i mkdir/root/.my-scripts
+  254  sudo mkdir /root/.my-scripts
+  255  clear
+  256  sudo nano /root/.my-scripts/apt-update.sh
+  257  sudo chmod +x /root/.my-scripts/apt-update.sh
+  258  sudo nano /etc/systemd/system/on-boot.service
+  259  sudo systemctl daemon-reload
+  260  scp ubuntu@196.43.142.49:/home/ubuntu/Assignmentone.sh "C:\Users\Administrator\Desktop\Vangamoi Emmanuel"
+  261  scp ubuntu@196.43.142.49:/home/root/my-scripts.sh "C:\Users\Administrator\Desktop\Vangamoi Emmanuel"
+  262  clear
+  263  history
+  264  vim shellexample.sh
+  265  clear
+  266  m
+  267  mkdir GITCLASS
+  268  touch class-list.csv
+  269  git init
+  270  git clone https://github.com/mccema/GITCLASS.gitf
+  271  git clone https://github.com/mccema/GITCLASS.git
+  272  mkdir BSIT-3
+  273  touch class.csv
+  274  git clone https://github.com/mccema/BSIT-3.git
+  275  cd BSIT-3
+  276  git clone https://github.com/mccema/BSIT-3.git
+  277  ls
+  278  git clone https://github.com/kashuaa14/BSIT-3.git
+  279  git clone https://github.com/kashua14/BSIT-3.git
+  280  ls
+  281  cd BSIT-3
+  282  git brancg B25696
+  283  git checkout B25696
+  284  git checkout <B25696>
+  285  git checkout B25696
+  286  git branch B25696
+  287  git checkout B25696
+  288  git add .
+  289  git commit -m Added my details
+  290  git push origin
+  291  git branch B25696
+  292  git push origin
+  293  vim class.csv.sh
+  294  git add .
+  295  git commit -m "Added My Details"
+  296  git push origin
+  297  git push -u origin main
+  298  git branch B25696
+  299  git checkout B25696
+  300  git add .
+  301  git commit -m
+  302  git commit -m "Added details"
+  303  git push origin
+  304  // make your changes
+  305  git add .
+  306  git commit -m "added something"
+  307  git push origin
+  308  git push --set-upstream origin B25696
+  309  git pull
+  310  clear
+  311  crontab -l
+  312  crontab -u username -l
+  313  crontab -e
+  314  mkdir class24
+  315  ls -l
+  316  mv class24 class2024
+  317  ls -lh
+  318  ls
+  319  crontab -e
+  320  crontab
+  321  crontab -e
+  322  which
+  323  clear
+  324  vim script.sh
+  325  ls -lh
+  326  clear
+  327  ls -lh
+  328  mkdir Assignment2
+  329  ls -lh
+  330  touch Assignment_two.sh
+  331  ls -lh
+  332  vim assignment_two.sh
+  333  vim num_loop.sh
+  334  vim sh num_loop.sh
+  335  sh num_loop.sh
+  336  chmod +x num_loop.sh
+  337  sh num_loop.sh
+  338  vim num_loop.sh
+  339  ls -lh
+  340  ls-lh
+  341  clecl
+  342  clear
+  343  ls -lh
+  344  ls -lh
+  345  vim num_loop.sh
+  346  ls -l
+  347  vim num_loop.sh
+  348  sh num_loop.sh
+  349  vim num_loop.sh
+  350  chmod +x num_loop.sh
+  351  ./num_loop.sh
+  352  vim num_loop.sh
+  353  chmod +x num_loop.sh
+  354  ./num_loop.sh
+  355  ls -lh
+  356  vim Pupil.sh
+  357  chmod +x pupil.sh
+  358  ls -lh
+  359  sh pupil.sh
+  360  vim pupil.sh
+  361  chmod +x pupil.sh
+  362  ./pupil.sh
+  363  sh pupil.sh
+  364  vim pupil.sh
+  365  vim pupil_data.sh
+  366  chmod +x pupil_data.sh
+  367  ./pupil_data.sh
+  368  vim access_dir.sh
+  369  chmod +x access_dir.sh
+  370  ./access_dir.sh
+  371  vim access_dir_updated.sh
+  372  chmod +x access_dir-updated.sh
+  373  ./access_dir_updated.sh
+  374  clear
+  375  ls -lh
+  376  clear
+  377  sudo apt update
+  378  sudo apt install mariadb-server
+  379  sudo systemctl start mariadb
+  380  sudo systemctl enable mariadb
+  381  sudo mysql_secure_installation
+  382  create DATABASE Vangamoi;
+  383  sudo mysql -u root -p
+  384  sudo vim /opt/backup_database.sh
+  385  sudo chmod +x /opt/backup_database.sh
+  386  crontab -e
+  387  sudo nano /etc/systemd/system/backups.service
+  388  sudo nano /etc/systemd/system/backups.timer
+  389  sudo systemctl daemon-reload
+  390  sudo systemctl enable backups.timer
+  391  sudo systemctl start backups.timer
+  392  systemctl list-timers --all
+  393  systemctl status backups.timer
+  394  ls -lh
+  395  exit
+  396  clear
+  397  history
+ubuntu@B25696:~$ clear
+
